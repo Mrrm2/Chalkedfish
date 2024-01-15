@@ -1,8 +1,9 @@
 # Chalkedfish 16
+For people too broke for chess.com premium. Game Review but chalked.
 
 # Getting Started
 
-To load this extension in developer mode, follow these steps:
+To load this extension, follow these steps:
 
 1. Go to the Extensions page by entering `chrome://extensions` in a new tab.
 
