@@ -16,5 +16,13 @@
 	"background": {
 		"service_worker": "background.js"
 	},
-	"permissions": ["tabs", "activeTab", "scripting"]
+	"permissions": ["tabs", "activeTab", "scripting"],
+	"icons": {
+		"16": "./images/chalkedfish16.png",
+		"24": "./images/chalkedfish24.png",
+		"32": "./images/chalkedfish32.png",
+		"48": "./images/chalkedfish48.png",
+		"128": "./images/chalkedfish128.png"
+
+	}
 }
